@@ -26,7 +26,6 @@ Antes de iniciar o processo, verifique o estado atual do seu TPM para confirmar 
 
 1. Abra o **Prompt de Comando (CMD)**.
 2. Navegue até o diretório onde o arquivo está salvo:
- 2. Navegue até o diretório onde o arquivo está salvo:
 cmd
 cd C:\Users\Administrator\Desktop\spof tpm
 
@@ -41,7 +40,7 @@ SHA256 532151535135135155
 📦 Requirements
 Linux Mint ISO: [Baixar aqui](https://www.linuxmint.com/edition.php?id=322)
 
-Pendrive Bootável: Pelo menos 4GB, gravado utilizando o Rufus.
+Pendrive Bootável: Pelo menos 4GB, gravado utilizando o Rufus que esta dentro do .rar.
 
 ⚙️ BIOS & Windows Setup
 No Windows, pressione Win + R → digite tpm.msc → Limpar TPM → o seu PC será reiniciado (certifique-se de que o TPM já está habilitado na BIOS).
