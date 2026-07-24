@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🛡️ FAST TPM SPOOFER</h1>
+  <h1 align="center"> TPM SPOOFER</h1>
   <p align="center"><b>A Fast and Effective Method to Spoof TPM Using Linux Mint</b></p>
 </p>
 
