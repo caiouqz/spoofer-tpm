@@ -39,7 +39,7 @@ SHA1 242452151356351253
 SHA256 532151535135135155
 
 📦 Requirements
-Linux Mint ISO: Baixar aqui
+Linux Mint ISO: [Baixar aqui](https://www.linuxmint.com/edition.php?id=322)
 
 Pendrive Bootável: Pelo menos 4GB, gravado utilizando o Rufus.
 
